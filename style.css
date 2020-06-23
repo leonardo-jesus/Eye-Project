@@ -1,0 +1,50 @@
+body {
+  font-size: 20px;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+}
+
+.btn {
+  width: 130px;
+  height: 40px;
+  border: 2px solid #0060B9;
+  border-radius: 5px;
+  font-family: calibri;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: white;
+  cursor: pointer;
+  transition: 0.4s all ease;
+  color: black;
+  margin: 3px;
+}
+
+.btn:hover {
+  width: 180px;
+  background-color: #0083FE;
+  border: 2px solid #0083FE;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+#container {
+  width: 400px;
+  height: 350px;
+  transition: 1s all linear;
+  margin: 3rem;
+  background: url(https://www.cera.org.au/wp-content/uploads/2019/10/blue-eye.jpg);
+  background-repeat: no-repeat;
+  background-size: 620px, cover;
+  background-position: center center;
+}
+
+#title {
+  color: white;
+  font-family: calibri;
+  font-size: 45px;
+}
