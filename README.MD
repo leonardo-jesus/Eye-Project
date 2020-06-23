@@ -27,7 +27,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-This is a simple Project, made for training and understand, how use buttons to manipulate the DOM via Javascript.
+This is a simple Project, made for training, and understand to how use buttons to manipulate the DOM via Javascript.
 
 ## 🔖 Layout
 
